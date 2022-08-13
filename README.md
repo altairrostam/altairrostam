@@ -5,3 +5,4 @@
 * I've developed some telemedicine applications
   * Processing and Displaying DICOM Files
   * Dicom Files Management with Orthanc
+  * Integrating Deep Learning Models for automatic disease classification
