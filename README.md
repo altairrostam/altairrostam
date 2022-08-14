@@ -4,7 +4,7 @@
 * Main Stack : React + Django
 * I've developed some telemedicine applications with these specific features :pill::
   * Processing and Displaying DICOM Files
-  * Dicom Files Management with Orthanc
+  * Dicom Files Management with Orthanc Server
   * Integrating Deep Learning Models for automatic disease classification
 * Available for hire :briefcase:
 
