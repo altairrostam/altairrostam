@@ -8,4 +8,4 @@
   * Integrating Deep Learning Models for automatic disease classification
 * Available for hire :briefcase:
 
-On my downtime, I try out new hobbies with my wonderful girlfriend :basketball::bicyclist::sunrise_over_mountains:
+<sub> On my downtime, I try out new hobbies with my wonderful girlfriend :basketball::bicyclist::sunrise_over_mountains: </sub>
