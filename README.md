@@ -1,4 +1,4 @@
-### Hi There, my name is Altair Rostam :pizza:
+### Hi there, my name is Altair Rostam :pizza:
 
 * I'm a full-stack web developer :computer:
 * Main Stack : React + Django
